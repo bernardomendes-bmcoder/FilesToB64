@@ -16,6 +16,8 @@ Memo1.Lines.Text := FileToB64.LoadFromFile('https://cdn.shopify.com/app-store/li
 end;`
 
 by: BMCoder (Bernardo Mendes)
+
+<html>
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="business" value="S757G2682L5N4" />
 <input type="hidden" name="no_recurring" value="0" />
@@ -24,6 +26,7 @@ by: BMCoder (Bernardo Mendes)
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_BR/i/scr/pixel.gif" width="1" height="1" />
 </form>
+</html>
 
 ![QR Code](https://user-images.githubusercontent.com/16192098/166301752-3e02cf46-bcce-4a70-87cd-fd7c76c6e913.png)
 
