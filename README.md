@@ -26,4 +26,5 @@ by: BMCoder (Bernardo Mendes)
 </form>
 
 ![QR Code](https://user-images.githubusercontent.com/16192098/166301752-3e02cf46-bcce-4a70-87cd-fd7c76c6e913.png)
+
 Ajude no Paypal com aquele cafezinho. :)
