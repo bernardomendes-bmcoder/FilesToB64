@@ -2,10 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2018/05/07 20:35:31.000.357,=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/15 22:09:07.839,=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/15 22:14:50.775,E:\Componentes\MeusComponentes\FilesToB64\demo\demo.dfm=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2022/03/15 22:14:50.775,E:\Componentes\MeusComponentes\FilesToB64\demo\demo.pas=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/03/15 22:15:04.299,E:\Componentes\MeusComponentes\FilesToB64\demo\Project1.dproj=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/15 22:09:07.000.839,=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/15 22:14:50.000.775,C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Componentes\MeusComponentes\FilesToB64\demo\demo.pas</Transaction>
+    <Transaction>2022/03/15 22:14:50.000.775,C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Componentes\MeusComponentes\FilesToB64\demo\demo.dfm</Transaction>
+    <Transaction>2022/03/15 22:15:04.000.299,C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Componentes\MeusComponentes\FilesToB64\demo\Project1.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>

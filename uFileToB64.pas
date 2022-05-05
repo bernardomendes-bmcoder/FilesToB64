@@ -80,8 +80,8 @@ begin
   end
   else begin
    extention     := ExtractFileExt(ASourceFile);
-   extention     := StringReplace(extention, '.', '',[rfReplaceAll, rfIgnoreCase]);
-   vNameFile     := ExtractFileName(ASourceFile)+'.'+extention;
+   extention     := StringReplace(extention, '.', '',[rfReplaceAll]);
+   vNameFile     := ExtractFileName(ASourceFile);
    vDestFile     := ExtractFilePath(ASourceFile);
   end;
 
@@ -121,7 +121,7 @@ end;
 
 function TFileToB64.MimeType(AFileName: string): string;
  begin
-  case AnsiIndexStr(AFileName, ['pdf', 'png','jpg','jpeg','mp4','doc','bmp','ogg']) of
+  case AnsiIndexStr(AFileName, ['pdf', 'png','jpg','jpeg','mp4','doc','bmp','ogg','xml']) of
   0 : Result := 'data:application/pdf;base64,';
   1 : Result := 'data:image/png;base64,';
   2 : Result := 'data:image/jpg;base64,';
@@ -130,6 +130,7 @@ function TFileToB64.MimeType(AFileName: string): string;
   5 : Result := 'application/msword;base64,';
   6 : Result := 'data:image/bmp;base64,';
   7 : Result := 'data:application/ogg;base64,';
+  8 : Result := 'data:application/xml;base64,';
   end;
  end;
 
