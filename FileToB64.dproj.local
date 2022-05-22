@@ -2,9 +2,9 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2022/03/15 15:43:30.000.340,=rtl.dcp</Transaction>
-    <Transaction>2022/03/15 15:44:56.000.394,E:\Componentes\MeusComponentes\FilesToB64\FileToB64.dproj=C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2022/03/15 15:44:56.000.394,C:\Users\berna\OneDrive\Documents\Embarcadero\Studio\Projects\Package1.dproj=E:\Componentes\MeusComponentes\FilesToB64\FileToB64.dproj</Transaction>
     <Transaction>2022/03/15 15:45:08.000.828,=E:\Componentes\MeusComponentes\FilesToB64\Unit1.pas</Transaction>
-    <Transaction>2022/03/15 15:45:27.000.912,E:\Componentes\MeusComponentes\FilesToB64\uFileToB64.pas=E:\Componentes\MeusComponentes\FilesToB64\Unit1.pas</Transaction>
+    <Transaction>2022/03/15 15:45:27.000.912,E:\Componentes\MeusComponentes\FilesToB64\Unit1.pas=E:\Componentes\MeusComponentes\FilesToB64\uFileToB64.pas</Transaction>
     <Transaction>2022/03/15 21:57:58.000.627,=IndySystem.dcp</Transaction>
     <Transaction>2022/03/15 21:57:58.000.611,=soaprtl.dcp</Transaction>
     <Transaction>2022/03/15 21:57:58.000.658,=IndyCore.dcp</Transaction>
